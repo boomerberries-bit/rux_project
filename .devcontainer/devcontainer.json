@@ -15,3 +15,10 @@
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {"ghcr.io/devcontainers-extra/features/amplify-cli:2": }
 }
+{
+    "feature" : {
+        "ghcr.io/devcontainers-extra/features/assemblyscript:2": {}
+        "ghcr.io/jayree/devcontainer-features/npm-registry:1": {}
+        "ghcr.io/stuartleeks/dev-container-features/add-host:1": {}
+    }
+}
